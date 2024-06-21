@@ -24,13 +24,11 @@ Feel free to explore and contribute!
 
 Here are the project questions and queries:-
 Q1. Retrieve the total no. of orders placed.
-
 SELECT	
            COUNT(ORDER_ID) AS "total orders"
 FROM ORDERS;
 
 Q.2 Calculate the total revenue generated from pizza sales.
-
 SELECT	 
            SUM(PIZZAS.PRICE * ORDER_DETAILS.QUANTITY) AS "Revenue"
 FROM 
