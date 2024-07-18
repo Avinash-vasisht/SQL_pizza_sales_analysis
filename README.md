@@ -130,7 +130,7 @@ ORDER BY order_date;
 ```
 ---
 ## Project schema
-[https://ibb.co/fHdqWm5](https://ibb.co/fHdqWm5)
+![pizza sales schema](https://github.com/user-attachments/assets/ec57d86a-bdff-4ff3-8961-59a759536d62)
 
 ## Github
 https://github.com/dashboard
