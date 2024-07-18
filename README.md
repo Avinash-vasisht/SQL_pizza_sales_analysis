@@ -130,7 +130,7 @@ ORDER BY order_date;
 ```
 ---
 ## Project schema
-https://ibb.co/fHdqWm5
+[https://ibb.co/fHdqWm5](https://ibb.co/fHdqWm5)
 
 ## Github
 https://github.com/dashboard
